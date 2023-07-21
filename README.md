@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameurfida&label=Profile%20views&color=0e75b6&style=flat" alt="jameurfida" /> </p>
 
-- 🔭 I’m currently working on [Bookly Web - The web version of an unique audiobook application](https://bookly.fida.me)
+- 🔭 I’m currently working at [GCL International Bangladesh](https://gcl.uk)
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **React & MongoBD**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.fida.me/](https://portfolio.fida.me/)
 
 - 📝 I regularly write articles on [https://blog.fida.me/](https://blog.fida.me/)
 
-- 💬 Ask me about **PHP, Javascript, Bootstrap, WordPress, Moodle**
+- 💬 Ask me about **PHP, Laravel, MySQL, Javascript, Bootstrap, Tailwind, WordPress**
 
 - 📫 How to reach me **connect@fida.me**
 
@@ -35,6 +35,6 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jameurfida&show_icons=true&locale=en&layout=compact" alt="jameurfida" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jameurfida&show_icons=true&locale=en" alt="jameurfida" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jameurfida&show_icons=true&locale=en" alt="jameurfida" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameurfida&" alt="jameurfida" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameurfida&" alt="jameurfida" /></p> -->
