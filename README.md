@@ -1,3 +1,5 @@
+**Notice: Seeking assistance to recover the banned previous GitHub account, any help appreciated.**
+
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://fida.me)
 <h1 align="center">Hi 👋, I'm Jameur Fida</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
@@ -8,6 +10,8 @@
 
 - 🌱 I’m currently learning **React & MongoBD**
 
+- ⚡ I’m good at **Laravel & PHP**
+- 
 - 👨‍💻 All of my projects are available at [https://portfolio.fida.me/](https://portfolio.fida.me/)
 
 - 📝 I regularly write articles on [https://blog.fida.me/](https://blog.fida.me/)
